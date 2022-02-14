@@ -15,7 +15,7 @@ sudo apt install build-essential
 ```
 
 ## Note 
-This code only works on GNU/Linux or OSX because Windows works with another library called WINSOCK
+This code only works on **GNU/Linux or OSX** because Windows works with another library called WINSOCK
 
 # Compile
 
@@ -54,6 +54,13 @@ using this way by default port 80 is set by default.
 ```bash
 ./Yacurl <URL>
 ```
+
+## Example
+
+```bash
+./Yacurl www.example.com
+```
+![image](https://user-images.githubusercontent.com/53051438/153796171-d457c2af-e212-4335-a92e-def7a16875d4.png)
 
 ## Result
 
