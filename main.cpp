@@ -108,6 +108,5 @@ int main(int argc, char *argv[])
   }
 
   cout<<"Process finished"<<endl;
-
 	return EXIT_SUCCESS;
 }
